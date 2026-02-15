@@ -8,6 +8,23 @@ Multi-dataset retinal vessel segmentation project using:
 
 ---
 
+📥 Dataset Sources
+
+The datasets used in this project were downloaded from the official sources:
+
+🔹 DRIVE Dataset
+https://drive.grand-challenge.org/
+
+🔹 CHASEDB1 Dataset
+https://blogs.kingston.ac.uk/retinal/chasedb1/
+
+🔹 HRF Dataset
+https://www5.cs.fau.de/research/data/fundus-images/
+
+These datasets are publicly available for research purposes.
+
+---
+
 # 📁 Project Structure
 
 ```
